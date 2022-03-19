@@ -27,3 +27,7 @@ https://www.hackerrank.com/challenges/one-week-preparation-kit-lonely-integer/pr
 ### 2. Diagonal Difference
 
 https://www.hackerrank.com/challenges/one-week-preparation-kit-diagonal-difference/problem
+
+### 3. Counting Sort 1
+
+https://www.hackerrank.com/challenges/one-week-preparation-kit-countingsort1/problem
