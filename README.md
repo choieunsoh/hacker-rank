@@ -46,3 +46,5 @@ Mock Test
 ### 1. Zig Zag Sequence
 
 https://www.hackerrank.com/challenges/one-week-preparation-kit-zig-zag-sequence/problem
+
+### 2. Tower Breakers
