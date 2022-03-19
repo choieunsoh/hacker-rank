@@ -23,3 +23,7 @@ Mock Test
 ### 1. Lonely Integer
 
 https://www.hackerrank.com/challenges/one-week-preparation-kit-lonely-integer/problem
+
+### 2. Diagonal Difference
+
+https://www.hackerrank.com/challenges/one-week-preparation-kit-diagonal-difference/problem
