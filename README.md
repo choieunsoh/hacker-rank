@@ -54,3 +54,9 @@ https://www.hackerrank.com/challenges/one-week-preparation-kit-tower-breakers-1/
 ### 3. Caesar Cipher
 
 https://www.hackerrank.com/challenges/one-week-preparation-kit-caesar-cipher-1/problem
+
+## Day 4
+
+### 1. Grid Challenge
+
+https://www.hackerrank.com/challenges/one-week-preparation-kit-grid-challenge/problem
