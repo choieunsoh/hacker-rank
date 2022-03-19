@@ -48,3 +48,9 @@ Mock Test
 https://www.hackerrank.com/challenges/one-week-preparation-kit-zig-zag-sequence/problem
 
 ### 2. Tower Breakers
+
+https://www.hackerrank.com/challenges/one-week-preparation-kit-tower-breakers-1/problem
+
+### 3. Caesar Cipher
+
+https://www.hackerrank.com/challenges/one-week-preparation-kit-caesar-cipher-1/problem
