@@ -13,3 +13,13 @@ https://www.hackerrank.com/challenges/one-week-preparation-kit-mini-max-sum/prob
 ### 3. Time Conversion
 
 https://www.hackerrank.com/challenges/one-week-preparation-kit-time-conversion/problem
+
+### 4. Find findMedian
+
+Mock Test
+
+## Day 2
+
+### 1. Lonely Integer
+
+https://www.hackerrank.com/challenges/one-week-preparation-kit-lonely-integer/problem
