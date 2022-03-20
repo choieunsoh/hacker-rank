@@ -74,3 +74,7 @@ https://www.hackerrank.com/challenges/one-week-preparation-kit-new-year-chaos/pr
 ### 1. Merge two sorted linked lists
 
 https://www.hackerrank.com/challenges/one-week-preparation-kit-merge-two-sorted-linked-lists/problem
+
+### 2. Queue using Two Stacks
+
+https://www.hackerrank.com/challenges/one-week-preparation-kit-queue-using-two-stacks/problem
