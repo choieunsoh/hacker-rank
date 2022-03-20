@@ -82,3 +82,9 @@ https://www.hackerrank.com/challenges/one-week-preparation-kit-queue-using-two-s
 ### 3. Balanced Brackets
 
 https://www.hackerrank.com/challenges/one-week-preparation-kit-balanced-brackets/problem
+
+## Day 6
+
+### 1. Simple Text Editor
+
+https://www.hackerrank.com/challenges/one-week-preparation-kit-simple-text-editor/problem
