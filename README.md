@@ -68,3 +68,9 @@ https://www.hackerrank.com/challenges/one-week-preparation-kit-recursive-digit-s
 ### 3. New Year Chaos
 
 https://www.hackerrank.com/challenges/one-week-preparation-kit-new-year-chaos/problem
+
+## Day 5
+
+### 1. Merge two sorted linked lists
+
+https://www.hackerrank.com/challenges/one-week-preparation-kit-merge-two-sorted-linked-lists/problem
