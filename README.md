@@ -78,3 +78,7 @@ https://www.hackerrank.com/challenges/one-week-preparation-kit-merge-two-sorted-
 ### 2. Queue using Two Stacks
 
 https://www.hackerrank.com/challenges/one-week-preparation-kit-queue-using-two-stacks/problem
+
+### 3. Balanced Brackets
+
+https://www.hackerrank.com/challenges/one-week-preparation-kit-balanced-brackets/problem
