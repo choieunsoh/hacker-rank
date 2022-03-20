@@ -3,21 +3,19 @@ function processData(input) {
   const lines = input.split('\n')
   const len = Number(lines[0])
 
-  let text = []
+  let text = ''
   let stack = []
   for (let i = 1; i <= len; i++) {
-    const s = lines[i].split(' ')
-    if (s[0] === '1') {
-      text.push(...s[1].split(''))
-      stack.push([...text])
-    } else if (s[0] === '2') {
-      text = text.slice(0, text.length - Number(s[1]))
-      if (text.length > 0) {
-        stack.push([...text])
-      }
-    } else if (s[0] === '3') {
-      console.log(text[Number(s[1] - 1)])
-    } else if (s[0] === '4') {
+    const [cmd, arg] = lines[i].split(' ')
+    if (cmd === '1') {
+      stack.push(text)
+      text += arg
+    } else if (cmd === '2') {
+      stack.push(text)
+      text = text.substring(0, text.length - Number(arg))
+    } else if (cmd === '3') {
+      console.log(text[Number(arg) - 1])
+    } else if (cmd === '4') {
       text = stack.pop()
     }
   }
