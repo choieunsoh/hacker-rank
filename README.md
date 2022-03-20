@@ -64,3 +64,7 @@ https://www.hackerrank.com/challenges/one-week-preparation-kit-grid-challenge/pr
 ### 2. Recursive Digit Sum
 
 https://www.hackerrank.com/challenges/one-week-preparation-kit-recursive-digit-sum/problem
+
+### 3. New Year Chaos
+
+https://www.hackerrank.com/challenges/one-week-preparation-kit-new-year-chaos/problem
