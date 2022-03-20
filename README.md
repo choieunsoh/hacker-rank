@@ -60,3 +60,7 @@ https://www.hackerrank.com/challenges/one-week-preparation-kit-caesar-cipher-1/p
 ### 1. Grid Challenge
 
 https://www.hackerrank.com/challenges/one-week-preparation-kit-grid-challenge/problem
+
+### 2. Recursive Digit Sum
+
+https://www.hackerrank.com/challenges/one-week-preparation-kit-recursive-digit-sum/problem
